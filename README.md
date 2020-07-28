@@ -1,10 +1,10 @@
-## Hey I am Anupam.👋
+### Hey I am Anupam.👋
 <p align="center">
-<img src="https://raw.githubusercontent.com/AnupamDas054/AnupamDas054/master/img/pro.gif" width=100>
+<img src="https://raw.githubusercontent.com/AnupamDas054/AnupamDas054/master/img/pro.gif" width=300>
 </p>
-<br><br>
 
-## I am currently studying in the sixth semester of Computer Science & Engineering at Chittagong University of Engineering & Technology. 
+
+### I am currently studying in the sixth semester of Computer Science & Engineering at Chittagong University of Engineering & Technology. 
 - 🔭 I’m currently working on Machine Learning and Deep Learning .
 - 🌱 I’m currently learning application of Machine Learning on Cybersecurity.
 - 💬 Ask me whatever you want to know😊
