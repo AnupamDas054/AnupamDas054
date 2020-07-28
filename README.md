@@ -1,4 +1,5 @@
-### Hey I am Anupam. I am currently studying in the sixth semester at Chittagong University of Engineering & Technology. 👋
+### Hey I am Anupam.👋
+### I am currently studying in the sixth semester of Computer Science & Engineering at Chittagong University of Engineering & Technology. 
 - 🔭 I’m currently working on Machine Learning and Deep Learning .
 - 🌱 I’m currently learning application of Machine Learning on Cybersecurity.
 - 💬 Ask me whatever you want to know😊
