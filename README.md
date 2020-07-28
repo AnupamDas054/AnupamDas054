@@ -2,6 +2,9 @@
 - 🔭 I’m currently working on Machine Learning and Deep Learning .
 - 🌱 I’m currently learning application of Machine Learning on Cybersecurity.
 - 💬 Ask me whatever you want to know😊
+### My Favourite Programming Languages  :rocket:
+|<img src="https://raw.githubusercontent.com/AnupamDas054/AnupamDas054/master/img/cpp.png" width=60>  | <img src="https://raw.githubusercontent.com/AnupamDas054/AnupamDas054/master/img/js.png" width=60>  | <img src="https://raw.githubusercontent.com/AnupamDas054/AnupamDas054/master/img/python.png" width=60>  |
+|:---:|:---:|:---:|
 
 <!--
 **AnupamDas054/AnupamDas054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
