@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey I am Anupam. I am currently studying in the sixth semester at Chittagong University of Engineering & Technology. 👋
+- 🔭 I’m currently working on Machine Learning and Deep Learning .
 <!--
 **AnupamDas054/AnupamDas054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
