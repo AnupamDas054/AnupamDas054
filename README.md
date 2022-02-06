@@ -5,8 +5,8 @@
 
 
 ### I am currently studying in the sixth semester of Computer Science & Engineering at Chittagong University of Engineering & Technology. 
-- 🔭 I’m currently working on Machine Learning and Deep Learning .
-- 🌱 I’m currently learning application of Machine Learning on Cybersecurity.
+- 🔭 I’m currently learning Web Development specially interested in backend technology .
+- 🌱 I’m currently learning and working on application of Machine Learning on Cybersecurity as my thesis .
 - 💬 Ask me whatever you want to know😊
 
 ### My Favourite Programming Languages  :rocket:
