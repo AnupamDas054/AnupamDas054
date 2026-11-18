@@ -1,29 +1,54 @@
-### Hey I am Anupam.👋
+### Hey, I'm Anupam 👋
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/AnupamDas054/AnupamDas054/master/img/pro.gif" width=300>
 </p>
 
+### Software Engineer · Backend & Generative AI · Dhaka, Bangladesh
 
-### I am currently studying in the Dept. of Computer Science & Engineering at Chittagong University of Engineering & Technology. 
-- 🔭 I’m currently learning Web Development specially interested in backend technology .
-- 🌱 I’m currently learning and working on application of Machine Learning on Cybersecurity as my thesis .
-- 💬 Ask me whatever you want to know😊
+- 🤖 Currently building **agentic AI systems** — LLM orchestration, RAG, AI agents with LangChain & LangGraph
+- ⚙️ Backend engineer at heart — microservices, event-driven architecture, fintech & payment systems
+- 📄 Co-authored an NLP research paper on fake news detection, published in *Social Network Analysis and Mining* (Springer)
+- 💬 Ask me about backend engineering, distributed systems, or GenAI 😊
 
-### My Favourite Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/AnupamDas054/AnupamDas054/master/img/cpp.png" width=60>  | <img src="https://raw.githubusercontent.com/AnupamDas054/AnupamDas054/master/img/js.png" width=60>  | <img src="https://raw.githubusercontent.com/AnupamDas054/AnupamDas054/master/img/python.png" width=60>  |
-|:---:|:---:|:---:|
+---
 
-<!--
-**AnupamDas054/AnupamDas054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Experience
 
-Here are some ideas to get you started:
+| Company | Role | Period |
+|:---|:---|:---|
+| **Kona SL** | Software Engineer | Jan 2026 – Present |
+| **Foodi** | Senior Software Engineer | Jun 2025 – Dec 2025 |
+| **Brain Station 23** | Software Engineer I → II → III | Jul 2022 – May 2025 |
+| **Freelance** | Software Engineer | Mar 2021 – Dec 2021 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Education
+
+**B.Sc. in Computer Science & Engineering** — Chittagong University of Engineering & Technology (CUET), 2017 – 2022
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,go" />
+</p>
+
+**Backend, Data & DevOps**
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,kafka,redis,postgres,mysql,rabbitmq,docker,kubernetes,nginx,git,linux" />
+</p>
+
+**Generative AI & ML** — LLMs · RAG · AI Agents · MCP · LangChain · LangGraph · vLLM · Vector Databases (Qdrant) · NLP · Transformers
+
+---
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anupamdas0376-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupamdas0376)
+[![GitHub](https://img.shields.io/badge/GitHub-AnupamDas054-181717?style=flat&logo=github&logoColor=white)](https://github.com/AnupamDas054)
