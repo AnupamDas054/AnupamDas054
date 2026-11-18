@@ -18,8 +18,8 @@
 | Company | Role | Period |
 |:---|:---|:---|
 | **Kona SL** | Software Engineer | Jan 2026 – Present |
-| **Foodi** | Senior Software Engineer | Jun 2025 – Dec 2025 |
-| **Brain Station 23** | Software Engineer I → II → III | Jul 2022 – May 2025 |
+| **Foodi** | Software Engineer | Jun 2025 – Dec 2025 |
+| **Brain Station 23** | Software Engineer I → II | Jul 2022 – May 2025 |
 | **Freelance** | Software Engineer | Mar 2021 – Dec 2021 |
 
 ---
